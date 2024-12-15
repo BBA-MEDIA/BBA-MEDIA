@@ -8,7 +8,7 @@
 
 
 The SimpleGig software I have been working on has been written to support musicians who use backing tracks in their performances. 
-I couildn't find an existing simple 'cart' playout system, and not one that gave me the infomration I needed at playout like set
-time, elapsed time and remaining time. The system uses a simple drag and drop MP3 file system in four banks of twenty files. There
+I couldn't find an existing simple 'cart' playout system, and not one that gave me the infomration I needed at playout like set
+time, elapsed time and remaining time. The system uses a simple drag and drop MP3 file set builder in four banks of twenty files. There
 is shuffle left, right and delete functionality as well as STOP and FADE on the current playout track. The system is deliberately
 devoid of 'settings' so it remains as simple as possible.
